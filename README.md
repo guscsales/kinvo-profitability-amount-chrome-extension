@@ -1,19 +1,39 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Kinvo Profitability Value-chrome-extension
+# Kinvo Profitability Amount Chrome Extension
 
-My Chrome Extension
+![Image of feature running](readme/screenshot.png "Image of feature running")
+
+## O que é
+Extensão do Google Chrome (ou Brave) para exibir o valor em reais da rentabilidade da carteira selecionada.
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Exibir o valor da rentabilidade e aplicando a cor verde se for maior ou igual a zero e a cor vermelha se for menor que zero
 
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+TBD
 
 ## Contribution
 
-Suggestions and pull requests are welcomed!.
+Feedbacks e pull requests são bem vidas!
+
+### Rodando o projeto
+
+#### Tempo de desenvolvimento
+```
+yarn install
+yarn watch
+```
+
+#### Tempo de build
+```
+yarn build
+```
+
+#### Testes
+```
+yarn test
+```
 
 ---
 

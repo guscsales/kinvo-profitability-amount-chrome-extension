@@ -1,10 +1,17 @@
-# dependencies
-/node_modules
+node_modules/
+package-lock.json
 
-# production
-/build
-
-# misc
+.vscode/
 .DS_Store
+.idea/
 
-npm-debug.log*
+dist/
+coverage/
+storybook-static/
+reports/
+
+*.log
+
+junit.xml
+
+build/
