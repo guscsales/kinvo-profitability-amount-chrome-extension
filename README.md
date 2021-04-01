@@ -2,8 +2,11 @@
 
 ![Image of feature running](readme/screenshot.png "Image of feature running")
 
+## Motivação
+![Conversa com o time de atendimento do Kinvo](readme/kinvo-motivation.jpeg "Conversa com o time de atendimento do Kinvo")
+
 ## O que é
-Extensão do Google Chrome (ou Brave) para exibir o valor em reais da rentabilidade da carteira selecionada.
+Após não desenvolverem a feature, como eu gosto de saber o valor que tenho de rentabilidade, eu decidi criar essa extensão do Google Chrome (ou Brave) para exibir o valor em reais da rentabilidade da carteira selecionada.
 
 ## Features
 
@@ -34,6 +37,14 @@ yarn build
 ```
 yarn test
 ```
+
+## Me siga nas redes sociais!
+
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/twitter.png)](https://twitter.com/gussalesdev)
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/instagram.png)](https://www.instagram.com/gussales.dev/)
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/youtube.png)](https://canal.gussales.dev)
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/linkedin.png)](https://www.linkedin.com/in/gsaless/)
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/site.png)](https://gussales.dev)
 
 ---
 
