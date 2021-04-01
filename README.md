@@ -36,6 +36,9 @@ yarn watch
 yarn build
 ```
 
+#### Rodando extensão como desenvolvedor
+A Google tem um [artigo que explica como colocar o pacote pra rodar](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest). O processo deve ser feito com o `yarn watch` rodando.
+
 #### Testes
 ```
 yarn test
