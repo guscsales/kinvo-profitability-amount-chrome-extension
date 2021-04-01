@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/salesgu/kinvo-profitability-amount-chrome-extension/main/readme/kinvo-motivation.jpeg" alt="Conversa com o time de atendimento do Kinvo" width="375" />
 
 ## O que é
-Após não desenvolverem a feature, como eu gosto de saber o valor que tenho de rentabilidade, eu decidi criar essa extensão do Google Chrome (ou Brave) para exibir o valor em reais da rentabilidade da carteira selecionada.
+Infelizmente a feature não foi desenvolvida de forma nativa, porém como eu gosto de saber o valor que tenho de rentabilidade, eu decidi criar essa extensão do Google Chrome (ou Brave) para exibir o valor em reais da rentabilidade da carteira selecionada.
 
 ## Features
 
