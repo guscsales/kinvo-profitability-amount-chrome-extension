@@ -1,5 +1,7 @@
 # Kinvo Profitability Amount Chrome Extension
-
+---
+[![Coverage Status](https://coveralls.io/repos/github/salesgu/kinvo-profitability-amount-chrome-extension/badge.svg)](https://coveralls.io/github/salesgu/kinvo-profitability-amount-chrome-extension)
+---
 ## Resultado
 ![Image of feature running](readme/screenshot.png "Image of feature running")
 
