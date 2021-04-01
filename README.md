@@ -17,7 +17,7 @@ Infelizmente a feature não foi desenvolvida de forma nativa, porém como eu gos
 
 ## Install
 
-TBD
+Por enquanto ainda é manual, você pode executar o `yarn build` e [subir a pasta build manualmente](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest) na sessão de extensões do Chrome/Brave.
 
 ## Contribution
 
@@ -37,7 +37,7 @@ yarn build
 ```
 
 #### Rodando extensão como desenvolvedor
-A Google tem um [artigo que explica como colocar o pacote pra rodar](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest). O processo deve ser feito com o `yarn watch` rodando.
+A Google tem um [artigo que explica como colocar o pacote pra rodar](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest). O processo deve ser feito com o `yarn watch`.
 
 #### Testes
 ```
