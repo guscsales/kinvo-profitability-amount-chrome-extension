@@ -1,23 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
 <head>
-    <meta charset="UTF-8">
-    <title>My Chrome Extension</title>
-    <link rel="stylesheet" href="popup.css" />
+  <meta charset='UTF-8'>
+  <title>Kinvo - Rentabilidade em Reais</title>
+  <link rel='stylesheet' href='popup.css' />
 </head>
 <body>
-  <div class="app">
-    <p class="counter-label">Counter</p>
-    <div id="counter" class="counter"></div>
-    <div class="button-container">
-      <button id="decrementBtn" class="button">-</button>
-      <button id="incrementBtn" class="button">+</button>
-    </div>
-
-    <hr class="divider" />
-
-    <p class="title">Chrome Extension is Ready!</p>
-    <p class="subtitle">Start by updating <code>popup.html</code></p>
+<div class='app'>
+  <img src='images/kinvo-logo.png' alt='Logo do Kinvo' class='logo-kinvo' />
+  <div class='divider'></div>
+  <div class='title'>Rentabilidade em Reais</div>
+  <div class='subtitle'>Desenvolvido por: Gustavo Sales</div>
+  <a class='button' href='https://github.com/salesgu/kinvo-profitability-amount-chrome-extension' target='_blank'>Projeto
+    no Github</a>
+  <div class='divider'></div>
+  <div class='subtitle'>Me siga nas redes sociais!</div>
+  <div class='social-media-grid'>
+    <a href='https://twitter.com/gussalesdev'><img
+      src='https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/twitter.png' /></a>
+    <a href='https://www.instagram.com/gussales.dev'><img
+      src='https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/instagram.png' /></a>
+    <a href='https://canal.gussales.dev'><img
+      src='https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/youtube.png' /></a>
+    <a href='https://www.linkedin.com/in/gsaless/'><img
+      src='https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/linkedin.png' /></a>
+    <a href='https://gussales.dev'><img
+      src='https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/site.png' /></a>
   </div>
+</div>
+
+<script src='popup.js'></script>
 </body>
 </html>
