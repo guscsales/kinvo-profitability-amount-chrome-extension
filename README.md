@@ -48,9 +48,9 @@ yarn test
 
 [![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/twitter.png)](https://twitter.com/gussalesdev)
 [![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/instagram.png)](https://www.instagram.com/gussales.dev/)
-[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/youtube.png)](https://canal.gussales.dev)
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/youtube.png)](https://canal.gsales.io)
 [![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/linkedin.png)](https://www.linkedin.com/in/gsaless/)
-[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/site.png)](https://gussales.dev)
+[![alt text](https://gussales-fe-73lfksp0l-salesgu.vercel.app/social-media-icons/site.png)](https://gsales.io)
 
 ---
 
